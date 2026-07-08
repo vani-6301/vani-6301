@@ -1,32 +1,52 @@
 <h1 align="center">Hi 👋, I'm Vanishree</h1>
 
-<h3 align="center">Aspiring Full Stack Developer from India</h3>
+<h3 align="center">
+Frontend Engineer | React.js | JavaScript | MERN Stack | Exploring AI
+</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning React.js
-- 💻 Interested in Full Stack Development
-- 📚 Learning Java, SQL and Web Development
-- 🎯 Looking for Software Developer opportunities
+- 💼 Frontend Engineer with **2 years of experience** building enterprise React.js applications.
+- ⚛️ Skilled in **React.js, JavaScript (ES6+), Redux, React Hooks, and REST API integration**.
+- 🚀 Expanding my expertise in **Node.js, Express.js, MongoDB, and the MERN stack**.
+- 🤖 Currently learning **Generative AI, AI-powered applications, and integrating AI into modern web development**.
+- 🎯 Passionate about building scalable, responsive, and user-friendly web applications.
+- 📍 Bengaluru, Karnataka, India.
+- 📫 Reach me at **vaninaravi07@gmail.com**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+### Frontend
 - React.js
-- Java
-- SQL
+- JavaScript (ES6+)
+- Redux
+- React Hooks
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### AI & Tools
+- Generative AI Fundamentals
 - Git
 - GitHub
-
+- Postman
+- VS Code
+- Axios
 
 
 ## 📫 Connect with Me
 
 - 🔗 LinkedIn: [Vanishree](https://www.linkedin.com/in/vanishree6301/)
+- 🌐 Portfolio: https://your-portfolio-link.com
 - 📧 Email: vaninaravi07@gmail.com
