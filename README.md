@@ -24,15 +24,7 @@
 - Git
 - GitHub
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vani-6301&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vani-6301&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
